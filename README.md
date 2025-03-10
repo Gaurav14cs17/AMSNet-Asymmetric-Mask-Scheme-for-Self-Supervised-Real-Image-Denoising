@@ -72,18 +72,6 @@ AMSNet achieves state-of-the-art performance on various benchmark datasets. Belo
 | Real-World Data | 33.5      | 0.92  |
 
 For more detailed results, please refer to the
-
-
-
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or suggestions, feel free to reach out:
-- **Gaurav**: [Email](mailto:gaurav14cs17@example.com)
-- **GitHub Issues**: [Open an Issue](https://github.com/Gaurav14cs17/AMSNet-Asymmetric-Mask-Scheme-for-Self-Supervised-Real-Image-Denoising/issues)
-
 ---
 ## Ref:
  -[lll143653](https://github.com/lll143653/amsnet)
