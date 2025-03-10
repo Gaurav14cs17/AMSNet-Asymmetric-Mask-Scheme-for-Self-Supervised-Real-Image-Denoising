@@ -71,6 +71,7 @@ AMSNet achieves state-of-the-art performance on various benchmark datasets. Belo
 | Real-World Data | 33.5      | 0.92  |
 
 For more detailed results, please refer to the
+
 -[paper](https://arxiv.org/pdf/2407.06514).
 
 
