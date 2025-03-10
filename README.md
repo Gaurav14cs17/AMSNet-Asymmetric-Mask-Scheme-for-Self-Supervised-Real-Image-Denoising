@@ -3,6 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/Gaurav14cs17/AMSNet-Asymmetric-Mask-Scheme-for-Self-Supervised-Real-Image-Denoising)
 ![GitHub stars](https://img.shields.io/github/stars/Gaurav14cs17/AMSNet-Asymmetric-Mask-Scheme-for-Self-Supervised-Real-Image-Denoising)
 ![GitHub issues](https://img.shields.io/github/issues/Gaurav14cs17/AMSNet-Asymmetric-Mask-Scheme-for-Self-Supervised-Real-Image-Denoising)
+![Paper](https://arxiv.org/pdf/2407.06514)
 
 This repository contains the official implementation of **AMSNet**, a novel self-supervised learning framework for real image denoising. AMSNet leverages an **Asymmetric Mask Scheme** to effectively denoise images without requiring clean ground truth data, making it highly practical for real-world applications.
 
