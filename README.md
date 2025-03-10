@@ -71,16 +71,6 @@ AMSNet achieves state-of-the-art performance on various benchmark datasets. Belo
 
 For more detailed results, please refer to the [paper](#citation).
 
-## Citation
-If you find this work useful, please cite our paper:
-```bibtex
-@article{amsnet2023,
-  title={AMSNet: Asymmetric Mask Scheme for Self-Supervised Real Image Denoising},
-  author={Gaurav and others},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2023}
-}
-```
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
