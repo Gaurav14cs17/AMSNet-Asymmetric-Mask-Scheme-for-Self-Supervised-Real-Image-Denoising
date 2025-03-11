@@ -16,4 +16,4 @@ This repository provides an implementation of simple yet effective baselines for
 ## Raw Image Denoising  
 We apply NAFNet to a raw image denoising task following PMRID [35]. The testing set, referred to as **4Scenes**, consists of 39 raw images captured in different lighting conditions. To ensure a fair comparison, we adjusted NAFNet's width and the number of blocks from 32 to 16 and 36 to 7, respectively, reducing computational cost below PMRID.  
 
-Experimental results (Table 8 and Figure 7 in the paper) demonstrate that **NAFNet surpasses PMRID both quantitatively and qualitatively**, highlighting its scalability from **1.1 GMACs to 65 GMACs**.
+
