@@ -1,4 +1,4 @@
-# **Denoising Project**
+# **High-Quality Self-Supervised Deep Image Denoising**
 
 This repository contains the implementation of a denoising method for Gaussian noise removal. The method is evaluated on standard datasets (KODAK, BSD300, SET14) and compared against baselines like **N2C (Noise2Clean)**, **N2N (Noise2Noise)**, and **CBM3D**.
 
